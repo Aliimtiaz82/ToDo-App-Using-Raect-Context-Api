@@ -4,7 +4,7 @@ import { AppItem } from "./components/AppItem";
 import { WelcomeMsg } from "./components/WelcomeMsg";
 import { ClearAllBtn } from "./components/ClearAllBtn";
 import { useState } from "react";
-import {todoContext} from './store/todo-item-store'
+import {todoContext} from './store/todo-item-store';
 
 
 function App() {
